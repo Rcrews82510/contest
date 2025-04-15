@@ -32,7 +32,7 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></block></value><value name="kind"><shadow type="spritekind" id="RX,n?vU?l0F?;F.9At0%"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="run_image_animation" id="It8j4_QVx+M9s{j}g:!J" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="4" y="282"><value name="sprite"><block type="variables_get" id="_8wc4T%ZPge=a@gWm/cG" disabled-reasons="MANUALLY_DISABLED"><field name="VAR" id=":tdgw$0o,a0A*rDGtJ,.">mySprite</field></block></value><value name="frames"><shadow type="animation_editor" id="n]9{/-6dNQ-Z;w-@+~YD" disabled-reasons="MANUALLY_DISABLED"><field name="frames">[img`
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></block></value><value name="kind"><shadow type="spritekind" id="RX,n?vU?l0F?;F.9At0%"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="run_image_animation" id="It8j4_QVx+M9s{j}g:!J"><value name="sprite"><block type="variables_get" id="_8wc4T%ZPge=a@gWm/cG"><field name="VAR" id=":tdgw$0o,a0A*rDGtJ,.">mySprite</field></block></value><value name="frames"><shadow type="animation_editor" id="n]9{/-6dNQ-Z;w-@+~YD"><field name="frames">[img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
@@ -49,4 +49,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`]</field><data>{"commentRefs":[],"fieldData":{"frames":null}}</data></shadow></value><value name="frameInterval"><shadow type="timePicker" id="-Q__lp)VY|-[G!5`|Gpa" disabled-reasons="MANUALLY_DISABLED"><field name="ms">500</field></shadow></value><value name="loop"><shadow type="toggleOnOff" id=",9JT0S1rP9JH^[8@dD)e" disabled-reasons="MANUALLY_DISABLED"><field name="on">false</field></shadow></value></block></xml>
+`]</field><data>{"commentRefs":[],"fieldData":{"frames":null}}</data></shadow></value><value name="frameInterval"><shadow type="timePicker" id="-Q__lp)VY|-[G!5`|Gpa"><field name="ms">500</field></shadow></value><value name="loop"><shadow type="toggleOnOff" id=",9JT0S1rP9JH^[8@dD)e"><field name="on">false</field></shadow></value></block></next></block></statement></block></xml>
